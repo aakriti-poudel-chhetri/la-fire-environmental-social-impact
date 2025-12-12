@@ -4,8 +4,8 @@
 ## Introduction
 In January 2025, the Eaton and Palisades fires ignited almost simultaneously in the foothills and coastal wildland–urban interface zones of Los Angeles County, triggered by anomalously dry conditions and strong Santa Ana winds in Los Angeles County, California. These concurrent events burned more than 38 000 acres and destroyed over 16 000 structures resulting in around 30 direct fatalities and mass evacuations affecting more than 150, 000 individuals.
 
-![Extent of damage from the Pacific Palisades and Eaton fires in Los Angeles County](https://freeseandgoss.com/wp-content/uploads/2025/01/palisades-and-eaton-fires--scaled.jpeg)
-*Source: [Freese and Goss](https://freeseandgoss.com/pacific-palisades-eaton-fires/)*
+![Eaton Palisades Fires](https://freeseandgoss.com/wp-content/uploads/2025/01/palisades-and-eaton-fires--scaled.jpeg)
+*Figure 1:Extent of damage from the Pacific Palisades and Eaton fires in Los Angeles County. Source: [Freese and Goss](https://freeseandgoss.com/pacific-palisades-eaton-fires/)*
 
 ## Environmental Impact
 The Eaton and Palisades fires had profound environmental consequences across terrestrial, atmospheric and aquatic systems. Air quality deteriorated sharply, with PM2.5 concentrations exceeding 400 µg/m³, contributing to a prolonged hazardous air quality episode that extended far beyond the immediate burn zones. The combustion of built structures released complex mixtures of pollutants, including fine particulates and heavy metals such as lead, raising concerns about toxic exposures both outdoors and within impacted neighborhoods. Post‑fire runoff mobilized ash, sediment and chemical pollutants into waterways, contributing to soil and water contamination altering nutrient cycling and disrupting aquatic ecosystems. These severe environmental impacts shows  how urban wildfires are  interconnected, especially when fires consume both natural vegetation and human-made materials.
