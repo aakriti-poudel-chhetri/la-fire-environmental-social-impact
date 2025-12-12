@@ -4,7 +4,7 @@
 ## Introduction
 In January 2025, the Eaton and Palisades fires ignited almost simultaneously in the foothills and coastal wildland–urban interface zones of Los Angeles County, triggered by anomalously dry conditions and strong Santa Ana winds in Los Angeles County, California. These concurrent events burned more than 38 000 acres and destroyed over 16 000 structures resulting in around 30 direct fatalities and mass evacuations affecting more than 150, 000 individuals.
 
-![Extent of damage from the Pacific Palisades and Eaton fires in Los Angeles County]](https://freeseandgoss.com/wp-content/uploads/2025/01/palisades-and-eaton-fires--scaled.jpeg)
+![Extent of damage from the Pacific Palisades and Eaton fires in Los Angeles County](https://freeseandgoss.com/wp-content/uploads/2025/01/palisades-and-eaton-fires--scaled.jpeg)
 *Source: [Freese and Goss](https://freeseandgoss.com/pacific-palisades-eaton-fires/)*
 
 ## Environmental Impact
