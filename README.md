@@ -24,7 +24,6 @@ The objective of this assignment is to
 ## Repository Structure
 ```
 la-fire-environmental-social-impact/
-│
 ├── README.md
 ├── eaton-palisades-fire.ipynb
 └── .gitignore
