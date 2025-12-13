@@ -1,5 +1,5 @@
-# Visualizing fire scars through false color
-## A case of Eaton and Palisades fires
+# Eaton and Palisades Fires: Mapping the Environmental and Social Impacts
+### Analyzing wildfire extent and the proportion of elderly population affected by the 2025 Eaton and Palisades fires
 
 ## Introduction
 In January 2025, the Eaton and Palisades fires ignited almost simultaneously in the foothills and coastal wildland–urban interface zones of Los Angeles County, triggered by anomalously dry conditions and strong Santa Ana winds in Los Angeles County, California. These concurrent events burned more than 38 000 acres and destroyed over 16 000 structures resulting in around 30 direct fatalities and mass evacuations affecting more than 150, 000 individuals.
